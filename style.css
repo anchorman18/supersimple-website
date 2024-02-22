@@ -1,0 +1,130 @@
+body {
+
+ /*background-image: url();*/
+ background-size: cover;
+ background-color: rgb(29, 28, 28);
+
+}
+
+.heads{
+  color: rgb(255, 190, 12);
+  font-family: childzone;
+  font-size: 25px;
+  
+}
+
+.logo{
+  float: left;
+  height: 40px;
+  margin-top: 0%;
+
+}
+
+.pos{
+  position: absolute;
+  width: 50%;
+  left: 8%;
+  top: 10%;
+}
+
+.heads1{
+  color: rgb(255, 190, 12);
+  text-align: center;
+  font-family: childzone;
+  font-size: 5opx;
+}
+
+.para{
+  color: rgb(233, 192, 139);
+  text-align: left;
+  line-height: 1.5;
+  font-family: Gadugi;
+  font-size: 22px;
+}
+
+.para1{
+  color: rgb(233, 192, 139);
+  text-align: center;
+  line-height: 1.5;
+  font-family: Gadugi;
+  font-size: 22px;
+ 
+}
+
+.logo1{
+  float: right;
+  height: 333px;
+
+}
+
+.pos1{
+  position: absolute;
+  width: 85%;
+  left: 8%;
+  top: 20%;
+  padding: 1px;
+}
+.tokenamics{
+  font-size: 18px;
+  color: rgb(233, 192, 139);
+  width: 650px;
+  margin: 0 auto;
+}
+
+table{
+  width: 100%;
+}
+
+tr{
+  text-align: center;
+  
+  }
+
+td {
+  border: .5px solid red;
+  text-align: center;
+  border-radius: 10%;
+
+  }
+
+
+.flex-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+.flex-box {
+  font-family: Arial Rounded MT Bold;
+  box-sizing: border-box;
+  width: 200px;
+  height: 100px;
+  background: linear-gradient(purple,red);
+  color: rgb(233, 192, 139);
+  font-size: 18px;
+  text-align: center;
+  line-height: 25px;
+  border-radius: 20px;
+  margin: 15px;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 58%;
+}
+.copy{
+  color: white;
+
+}
+.supply {
+  display: block;
+  margin-left: 90px;
+  margin-right: 60px;
+  width: 58%;
+
+}
